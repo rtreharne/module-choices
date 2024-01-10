@@ -1,5 +1,13 @@
-# Deploying Django with Docker Compose
+# Module Choices
 
-This is the finished source code for the tutorial [Deploying Django with Docker Compose](https://londonappdeveloper.com/deploying-django-with-docker-compose/).
+R. Treharne, R. Floyd
 
-In this tutorial, we teach you how to prepare and deploying a Django project to an AWS EC2 instance using Docker Compose.
+School of Life Sciences, University of Liverpool
+
+## Objectives
+
++ Create a public web application that lets students on Biological Sciences programme choose modules.
++ Scrape data from enrollments on Canvas/Tulip to determine pre-requisites.
++ Simple, one-page website with no login required.
++ Scalable to other programmes
++ Can be administrated by multiple users.
